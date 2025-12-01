@@ -1,5 +1,6 @@
-gutenberg_books/
-ssu_unlearned_models/
-memorized_model/
+gutenberg_books/*
+ssu_unlearned_models/*
+memorized_model/*
 active
 frozen
+.DS_Store
